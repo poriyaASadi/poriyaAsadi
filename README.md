@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,pinia,react,html,css,tailwindcss,github,sass,npm,git,docker">
+    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,pinia,react,html,css,tailwindcss,github,sass,npm,git">
     <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
     
 <!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />

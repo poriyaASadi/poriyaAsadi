@@ -1,8 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph-dark.svg">
-  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
-
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
 </picture>
 
@@ -31,8 +29,15 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,html,css,tailwindcss,github,sass,npm,pnpm,git">
-    <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
@@ -42,7 +47,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
@@ -72,7 +85,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poriyaASadi&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poriyaASadi&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

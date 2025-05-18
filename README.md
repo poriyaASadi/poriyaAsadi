@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,html,css,tailwindcss,github,sass,npm,pnpm,git">
+    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,firebase,html,css,tailwindcss,github,sass,npm,pnpm,git">
     <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
 </div>
 

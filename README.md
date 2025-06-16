@@ -30,7 +30,9 @@
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,firebase,html,css,tailwindcss,github,sass,npm,pnpm,yarn,git">
-    <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
+    <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket" style="width:50px;">
+    <img src="https://leafletjs.com/docs/images/favicon.ico" alt="Leaflet.js" style="width:50px;">
+  
 </div>
 
 ###

@@ -29,10 +29,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,firebase,html,css,tailwindcss,github,sass,npm,pnpm,yarn,git">
-    <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket" style="width:50px;">
-    <img src="https://leafletjs.com/docs/images/favicon.ico" alt="Leaflet.js" style="width:50px;">
-  
+    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,vuetify,regex,pinia,react,firebase,html,css,tailwindcss,github,sass,npm,pnpm,yarn,git">  
 </div>
 
 ###
@@ -45,9 +42,9 @@
   <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
 </div>
 
-###
+<p style="display:flex;align-items:center;font-wight:bold;">WEBSOCKET🕸️  -  LEAFLET.JS🌿 - CONVAS.JS©️ - MUIⓂ️ - CLEAN/CODE🫧 - PWA🅿️ </p>
 
-<h3 align="left">contact me👾👨‍💻</h3>
+<h3 align="left">contact me🌟</h3>
 
 ###
 

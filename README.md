@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
 </div>
 
+<br>
+
 <p style="display:flex;align-items:center;font-wight:bold;">WEBSOCKET🕸️  -  LEAFLET.JS🌿 - CONVAS.JS©️ - MUIⓂ️ - CLEAN/CODE🫧 - PWA🅿️ </p>
 
 <h3 align="left">contact me🌟</h3>

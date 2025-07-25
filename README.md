@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
+  <img src="https://skillicons.dev/icons?i=codepen,vite,supabase,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
 </div>
 
 <br>

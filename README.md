@@ -15,40 +15,44 @@
 
 ###
 
-<h3 align="left">a little bit of me ^_^</h3>
+<h2 align="left">About Me 👨‍💻</h2>
 
 ###
 
-<p align="left">I have been working in the web field for almost 3 years. In addition to continuous activities to improve, I have always tried to keep myself updated, and I believe that quality of work is very important😎🫡</p>
-
-###
-
-<h2 align="left">My focused  skills🥷</h2>
-
-###
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,vue,nuxt,vuetify,regex,pinia,react,firebase,html,css,tailwindcss,github,sass,npm,pnpm,yarn,git">  
-</div>
-
-###
-
-<h3 align="left">To the extent of getting to know and working😶‍🌫️</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=codepen,vite,supabase,mysql,svelte,php,python,vscode,visualstudio,postman,figma,xd">
-</div>
-
-<br>
+<p align="left">I am a <b>programmer</b> and web developer with over 4+ years of experience, passionate about the fields and technologies of my field of work and interested in keeping myself up to date with the latest technologies. I am also interested in various other fields such as artificial intelligence, back-end concepts, and computer architecture.🫡</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<h2 align="left">Skills & Tools focused 🥷 </h2>
+
+###
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,ts,vue,nuxt,pinia,vuetify,react,nextjs,redux,html,htmx,css,tailwindcss,sass,bootstrap">  
+      <img src="https://skillicons.dev/icons?i=firebase,regex,github,npm,pnpm,yarn,git,vercel,svg,figma,vite,vscode">  
+</div>
+<br/>
 <p style="display:flex;align-items:center;font-wight:bold;">WEBSOCKET🕸️  -  LEAFLET.JS🌿 - CONVAS.JS©️ - MUIⓂ️ - CLEAN/CODE🫧 - PWA🅿️ </p>
+
+###
+
+<h3 align="left">Non-specialized and familiar skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,nodejs,mysql,svelte,php,python,visualstudio,postman">  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,&theme=dark&perline=15" alt="My Skills" /></a>
+</div>
+
+<br>
+
+
+
 
 <h3 align="left">contact me🌟</h3>
 

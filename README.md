@@ -49,16 +49,11 @@
   <img src="https://skillicons.dev/icons?i=supabase,nodejs,mysql,svelte,php,python,visualstudio,postman">  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=cs,&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 
-<br>
-
-
-
-
 <h3 align="left">contact me🌟</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/poriyaasadi/" target="_blank" style="text-decuration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo"  />
   </a>
@@ -79,11 +74,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
+<br/><br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poriyaASadi&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=poriyaASadi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poriyaASadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=poriyaASadi.poriyaASadi&left_text=Profile%20View"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

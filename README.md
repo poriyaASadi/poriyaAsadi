@@ -1,18 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
-</picture>
+<img style="margin:auto;" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="sheyap" />
 
-###
+<h1 align="center" style="display:flex;aligen-items:center;gap:5px;">Hi there <img src="https://camo.githubusercontent.com/390e8e172a778e856e4d97a1113893ede54c8473fcea53b3c1904f5e2c1ddf36/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6e65625a796c386f4e374941414141692f776176652d68656c6c6f2e676966" style="width:30px;height:30px;"/>I`m Poriya</h1>
 
+
+<h2 align="center" style="text-align:center;">Front-end Developer | Middle Level Developer</h2>
+
+
+<br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=poriyaASadi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=poriyaASadi&theme=algolia" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
-<h2 align="left">Hello, welcome to my profile page🌟🧑‍💼</h2>
 
 ###
 
@@ -43,6 +42,11 @@
 </div>
 
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/pacman-contribution-graph.svg">
+</picture>
 
 <p style="display:flex;align-items:center;font-wight:bold;">WEBSOCKET🕸️  -  LEAFLET.JS🌿 - CONVAS.JS©️ - MUIⓂ️ - CLEAN/CODE🫧 - PWA🅿️ </p>
 
